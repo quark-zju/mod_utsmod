@@ -8,8 +8,8 @@ Provide a sysctl interface to modify read-only UTS fields (ostype, osrelease, ve
 Example
 -------
 
-```bash
-# ./build.sh 
+```
+# ./build.sh
 ...
 # insmod utsmod.ko
 # sysctl -a | grep utsmod
