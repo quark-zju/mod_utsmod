@@ -3,7 +3,7 @@ utsmod
 
 Provide a sysctl interface to modify read-only UTS fields (ostype, osrelease, version).
 
-<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAT8AAAAdAgMAAACh24OxAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH3goQCxY6KIgbRQAAAAlQTFRFAAAA7ykp////dSTLRAAAAAFiS0dEAmYLfGQAAAGcSURBVEjH7ZQxihtBEEWfGxY+kysfFIk6hX0DGeT7fDoq5hTFRkOf0kGPdwVOvLJCVdrFo37V/w2venpd6imYayx7tLIZxfkZQFuSbN79v8BfP2+nH7fuVVIZYBhvFUsF0L68gtvb2/V6TVtSGuAMTpFpA/qy2gnsSOp3wMgcZvT9MWBP5g4PySlnGtCDE1qfwDmhp+QHgN9up++n2A7bTGCkIjOAtr+y+Q/lp7R9HG/YQJuG6RUSrQJiPvfC2IAvzaBhZoICAtHKKfIT6Hu+7RSSDwgkzbx79hhkmHYymAvSBH4qad56Tc807E0gm25iqUhkstfoFg5WQ5/OB5OISjVxWcopYOCSJJ1B2JlQDdKQ6a1Wk6mGhfE6IM251YDRhMhUm7noK2DsZZckWLHzMuNR2x6ZTtk4JSwcNqZ8xMoptPeUjqD5AIoJNHYKtIKNM52a0V6xsO15owO47XOHfwEPyQdQMv4AcmzMwu7Ytjkfh9MErveSW7mV5v//xzbDDojMmLbpNXpFq+gEDnC/s02vddlDitQr1U+o39NPy3DmGU/VAAAAAElFTkSuQmCC"/>
+![uname -a: Firefox ZION 32.0-amd64 Mozilla/5.0 x86_64 GNU/Linux](http://quark-zju.github.io/mod_utsmod/public/uname-demo.png)
 
 Example
 -------
